@@ -39,7 +39,7 @@ springboot + restful + data jbdc + mysql
 maven clean;     # maven 清理
 maven package    # 打包
 # 启动程序
-java -jar target/snails-0.1.jar
+java -jar target/springboot.jar
 ~~~
 
 2.在IDEA中直接运行（示例视频采用的是这种方法，其它IDE应该都可）
