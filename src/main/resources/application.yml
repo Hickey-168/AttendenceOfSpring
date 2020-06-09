@@ -1,0 +1,16 @@
+server:
+  port: 5799
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: wd650650
+    url: jdbc:mysql://localhost:3306/stuff?useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT
+  jpa:
+    hibernate:
+      ddl-auto: update
+      show-sql: true
+
+
+
