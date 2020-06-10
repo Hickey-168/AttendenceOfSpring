@@ -88,6 +88,30 @@ java -jar target/springboot.jar
 
 3.使用Postman来执行GET、POST、PUT、DELETE等操作。
 
+##### 分工情况
+
+小组成员：吴迪、谢国强、马国昊、卢远鹏
+
+考勤管理系统需求分析报告：卢远鹏
+
+考勤管理系统软件设计报告：吴迪、马国昊
+
+pom.xml:谢国强
+
+HelloController.java: 吴迪
+
+前端bing.html+js：吴迪
+
+Myconfig.java：马国昊
+
+Application.java:卢远鹏
+
+Stuff.java:吴迪
+
+stuffController.java：吴迪、谢国强
+
+StuffRepository.java：吴迪
+
 
 
 
